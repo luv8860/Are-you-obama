@@ -1,16 +1,10 @@
-# are_you_obama
+# Are You Obama?
 
-A new Flutter project.
+An AI Mobile Application that looks at an image and checks whether that image has Obama's face in it or not.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application is made with the following steps:
+- Create Basic CNN model.
+- Convert into tflite model
+- Deploying into Flutter application as an assets.
